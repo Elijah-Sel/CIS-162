@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+ /* links/header */
+html {background-color: seashell;}
+nav {background-color:#bfe8e5;
+    color:cornflowerblue;}
+
+ /* body */
+body{font-family:sans-serif}
+h1, h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5em;
+    letter-spacing: 0.1em;
+}
+
+ /* footer */
+footer {
+    text-align: center;
+    background-color: coral;
+    color: seashell;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.2em;
+}
