@@ -2,7 +2,9 @@
 
  /* links/header */
 html {background-color: seashell;}
-header
+header{
+    font-size: 0.8em;
+}
 nav {background-color:#bfe8e5;
     color:cornflowerblue;}
 
@@ -20,5 +22,5 @@ footer {
     background-color: coral;
     color: seashell;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 0.6em;
+    font-size: 0.2em;
 }
