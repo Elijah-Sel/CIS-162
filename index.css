@@ -7,9 +7,10 @@ nav {background-color:#bfe8e5;
 
  /* body */
 body{font-family:sans-serif}
-h1, h2{
+header, h1, h2{
     font-family:Georgia, 'Times New Roman', Times, serif;
-    line-height: 1.5em;
+    font-size: 2em;
+    line-height: 1em;
     letter-spacing: 0.1em;
 }
 
