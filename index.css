@@ -2,9 +2,6 @@
 
  /* links/header */
 html {background-color: seashell;}
-header{
-    font-size: 0.8em;
-}
 nav {background-color:#bfe8e5;
     color:cornflowerblue;}
 
@@ -12,8 +9,6 @@ nav {background-color:#bfe8e5;
 body{font-family:sans-serif; font-size:0.6em;}
 h1, h2{
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 2em;
-    line-height: 1em;
 }
 
  /* footer */
@@ -22,5 +17,4 @@ footer {
     background-color: coral;
     color: seashell;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 0.2em;
 }
