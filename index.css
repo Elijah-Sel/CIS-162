@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
-<head>
+<html lang="en">
+<head> 
     <meta charset="utf-8">
-    <title> Report </title>
+    <title> Index </title>
     <link href="index.css" rel="stylesheet">
 </head>
 
@@ -14,16 +14,29 @@
         <li style="float: right"> <a href="https://github.com/Elijah-Sel/CIS-162.git"> GitHub</a> </li>
     </ol></nav>
 
-    <article id="leftColumn">
-        <h1>Summary of HTML</h1>
-        <p>
-            Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript, a programming language.
-        </p>
-    </article>
-    <img src="https://raw.githubusercontent.com/Elijah-Sel/CIS-162/refs/heads/main/HTML5_logo.png" 
-    alt="HTML5 Logo" id="rightColumn"
-    style="width: 180px; height: 180px; display: block; padding: 10px 10px;">
+    <!--Introduction-->
+    <section id="leftColumn">
+    <h1>Elijah Selassie</h1>
+    <p>
+        Hello, my name is Elijah Selassie. I am a new dual enrollment student at Cerritos College, I have been participating since the second semester of last year. I currently attend Whitney High, next year I will be a high school freshman. I am also taking CIS 103, Computer Programming Logic. I am very excited to attend this class and learn about making websites and code.
+    </p>
+    </section>
 
+    <section id="rightColumn">
+    <h2>When I have free time</h2>
+    <ol>
+        <li>Eat food</li>
+        <li>Play guitar</li>
+        <li>Play basketball</li>
+    </ol>
+    </section>
+
+    <!--Bottom-->
+    <aside>
+    <p>
+        My favorite website is <a href="https://www.netflix.com">Netflix</a> because there are so many good shows to watch.
+    </p>
+    </aside>
     <footer>
         Last updated on Jul. 4 <br>
         <a href="mailto:frendofmannam@gmail.com">My email</a>
